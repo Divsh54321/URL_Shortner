@@ -1,0 +1,22 @@
+{
+  "name": "url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "f": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.9",
+    "zod": "^3.24.2"
+  }
+}
